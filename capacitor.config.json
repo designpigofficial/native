@@ -1,0 +1,6 @@
+{
+  "appId": "com.designpig.app",
+  "appName": "designpig",
+  "webDir": "out",
+  "bundledWebRuntime": false
+}
